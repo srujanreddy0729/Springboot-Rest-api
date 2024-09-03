@@ -1,3 +1,4 @@
+# Spring Boot project uses REST-API
 In this project, I developed a Spring Boot application to provide a REST API for managing JobPosts. 
 The API supports full CRUD operations (Create, Read, Update, Delete) on [insert entity, e.g., 'JobPosts'].
 The project is structured with a layered architecture, ensuring clear separation between the controller, service, repository and data access layers. 
